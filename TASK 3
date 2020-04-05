@@ -1,8 +1,8 @@
 // Write a function which will get two parameters and return a sum of it.
 
-function ADDING(a,b){
+function ADD(a,b){
 	add=a + b
 	return add
 }
-var addition=ADDING(10,20);
+var addition=ADD(10,20);
 console.log(addition)
