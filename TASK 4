@@ -4,22 +4,28 @@ function ADD(a,b){
 sum=a+b
 console.log(sum)
 }
-ADD(10,20);
+ADD(15,20);
 
 function SUB(a,b){
 sub=a-b
 console.log(sub)
 }
-SUB(15,5);
+SUB(20,50);
 
 function MUL(a,b){
 mul=a * b
 console.log(mul)
 }
-MUL(10,20);
+MUL(50,50);
 
 function DIV(a,b){
 div=a/b
 console.log(div)
 }
-DIV(5,10)
+DIV(10,5)
+
+function REM(a,b){
+rem=a%b
+console.log(rem)
+}
+REM(10,5)
